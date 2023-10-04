@@ -1,0 +1,47 @@
+
+               /*style for h1 in div class = "card"*/             
+h1 {
+    background-color: lightskyblue;
+    padding:8px;
+    margin:8px;
+    border:8px solid darkgray;
+    
+}
+
+              /*style for div class = "content"*/
+.content {
+    background-color: lightskyblue;
+    font-size:20px;
+    padding:15px;
+    margin:8px;
+    border:8px solid darkgray;
+    height:70px;
+    font-weight:bold;
+    
+}
+
+              /*style button-container*/
+.button-container {
+    background-color: lightskyblue;
+    padding:15px;
+    margin:8px;
+    border:8px solid darkgray;
+    height:70px;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+        
+}
+
+             /*style for button*/
+button {
+    background-color: white;
+    border:1px solid white;
+    font-size:20px;
+    font-weight:bold;
+    height:40px;
+    width:150px;
+    
+}
+
+

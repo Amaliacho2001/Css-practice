@@ -1,0 +1,30 @@
+.one {
+    background-color: pink;
+    color: black;
+    font-weight: bold;
+    border: 3px solid blue;
+    padding: 32px;
+    margin: 12px;
+   
+}
+
+.two {
+    background-color: skyblue;
+    color: black;
+    font-weight: bold;
+    border: 3px solid red;
+    
+}
+
+.three {
+    background-color: peachpuff;
+    color: black;
+    font-weight: bold;
+    padding: 32px;
+    border: 3px solid red;
+    margin: 48px;
+    width: 200px;
+    margin-left: auto;
+  
+    
+}

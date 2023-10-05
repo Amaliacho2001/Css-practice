@@ -1,1 +1,20 @@
+p {
+  background-color: pink;
+  font-weight: verdana, "DejaVu Sanz", sans-serif;
+  
+}
 
+.number {
+  color: blue;
+  font-size: 38px;
+}
+
+.number2 {
+  font-size: 24px;
+}
+
+.number3 {
+  background-color: lawngreen;
+  font-weight: bold;
+  font-size: 24px;
+}
